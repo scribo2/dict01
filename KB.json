@@ -1,0 +1,15 @@
+{
+	"station": [
+	  { "id": 1, "name": "Ленинская" },
+	  { "id": 2, "name": "Глух" },
+	  { "id": 3, "name": "Сенная" },
+	  { "id": 4, "name": "Марии" },
+	  { "id": 5, "name": "Ваавп" },
+	  { "id": 6, "name": "арвисм" },
+	  { "id": 7, "name": "сммнская" }
+	],
+	"comments": [
+	  { "id": 1, "body": "some comment", "postId": 1 }
+	],
+	"profile": { "name": "typicode" }
+  }
